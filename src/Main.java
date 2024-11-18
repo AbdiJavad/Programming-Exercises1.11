@@ -1,6 +1,5 @@
 public class Main {
-
-
+    
     public static void main(String[] args) {
         System.out.println("Population projection");
         System.out.println("Current population: 312032486");
